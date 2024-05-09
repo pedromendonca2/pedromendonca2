@@ -1,6 +1,6 @@
 ### Hi there, I'm Pedro 👋
 
-- 🔭 I’m currently working on C programming, with both heap and stack memory
+- 🔭 I’m currently working on C programming
 - 🌱 I’m currently learning data structure
 - 📫 How to reach me: ph8simoes4@gmail.com
 - ⚡ Fun fact: [You should know where Python came from](https://www.youtube.com/watch?v=VnaN2hYOM8k)
