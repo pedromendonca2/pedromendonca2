@@ -1,6 +1,6 @@
 ### Hi there, I'm Pedro 👋
 
-- 🔭 I’m currently working on C programming
+- 🔭 I’ve been usually working on C programming
 - 🌱 I’m currently learning data structure
 - 📫 How to reach me: ph8simoes4@gmail.com
 - ⚡ Fun fact: [You should know where Python came from](https://www.youtube.com/watch?v=VnaN2hYOM8k)
