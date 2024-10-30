@@ -1,7 +1,7 @@
 ### Hi there, I'm Pedro 👋
 
-- 🔭 I’ve been usually working on C programming
-- 🌱 I’m currently learning data structure
+- 🔭 I’ve been usually working on C/Java/Python programming
+- 🌱 I’m currently learning search algorithms and Grath Theory
 - 📫 How to reach me: ph8simoes4@gmail.com
 - ⚡ Fun fact: [You should know where Python came from](https://www.youtube.com/watch?v=VnaN2hYOM8k)
 <div>
