@@ -13,7 +13,7 @@
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Pedro-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-plain.svg">
+  <img align="center" alt="Pedro-Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Pedro-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-plain.svg">
   <img align="center" alt="Pedro-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-plain.svg">
 </div>
