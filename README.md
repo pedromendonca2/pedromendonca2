@@ -4,11 +4,11 @@
 - 🌱 I’m currently delving into Software Engineering
 - 📫 How to reach me: ph8simoes4@gmail.com
 - ⚡ Fun fact: [You should know where Python came from](https://www.youtube.com/watch?v=VnaN2hYOM8k)
-<div>
+<!-- <div>
   <a href="https://github.com/pedromendonca2">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=pedromendonca2&theme=dracula&show_icons=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromendonca2&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+</div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Pedro-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
