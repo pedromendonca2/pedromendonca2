@@ -1,7 +1,7 @@
 ### Hi there, I'm Pedro 👋
 
-- 🔭 I’ve been usually working on a React Native application
-- 🌱 I’m currently delving into Software Engineering
+- 🔭 I’ve been usually working with AI Engineering
+- 🌱 I’m currently delving into Machine Learning
 - 📫 How to reach me: mendonca.phsm@gmail.com
 - ⚡ Fun fact: [You should know where Python came from](https://www.youtube.com/watch?v=VnaN2hYOM8k)
 <!-- <div>
