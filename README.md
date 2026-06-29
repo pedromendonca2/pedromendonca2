@@ -2,7 +2,7 @@
 
 - 🔭 I’ve been usually working on a React Native application
 - 🌱 I’m currently delving into Software Engineering
-- 📫 How to reach me: ph8simoes4@gmail.com
+- 📫 How to reach me: mendonca.phsm@gmail.com
 - ⚡ Fun fact: [You should know where Python came from](https://www.youtube.com/watch?v=VnaN2hYOM8k)
 <!-- <div>
   <a href="https://github.com/pedromendonca2">
